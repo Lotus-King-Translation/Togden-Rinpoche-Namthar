@@ -81,6 +81,7 @@ msgid ""
 "མཚན་ རྟོགས་ལྡན་ བཀྲ་ཤིས་ བསོད་ནམས་ ཞེས་ བཏགས་ ཤིང་ མདོ་ཁམས་ རྔོད་ ཨེ་ཝཾ་ "
 "རྣམ་རྒྱལ་ དགོན །"
 msgstr ""
+"He was named Togden Tashi Sonam. Do-kham Ngoe Ehvam Namgyal Monastery, "
 
 msgctxt "5e2cd11af9874639b87b585d94792006"
 msgid ""
