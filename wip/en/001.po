@@ -95,6 +95,8 @@ msgid ""
 "ཁམས་ ཕྱོགས་ སུ་ རྒྱལ་བ་ འབྲི་གུང་པ་␣འི་ བསྟན་པ་ ཉི་མ་ ལྟར་ སྤེལ་ ཞིང་ "
 "འགྲོ་དོན་ རྒྱ་ཆེན་པོ་␣ར་ མཛད །"
 msgstr ""
+"He diffused the teachings of Gyalwa Drikungpa in the Kham area like the sun "
+"and greatly benefited the beings."
 
 msgctxt "0f9471d15562407ab38b36f2804fba7c"
 msgid ""
