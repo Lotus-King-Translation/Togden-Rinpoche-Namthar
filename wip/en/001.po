@@ -73,6 +73,8 @@ msgid ""
 "སྐུ་␣འི་ སྐྱེ་བ་ གཉིས་པ་ ཀོང་པོ་ འོད་ ཤོད་ བེ་ རིལ་ དུ་ སྐུ་ འཁྲུངས་ ཏེ་ "
 "ཞབས་དྲུང་ ཆོས་རྒྱལ་ ཕུན་ཚོགས་ ཀྱི་ ཞབས་ ལ་ གཏུགས་ ནས་ རབ་ཏུ་ བྱུང །"
 msgstr ""
+"The second incarnation, Kongpo Woesho, was born in Bairil and took monastic "
+"vows by touching Shabdrung Choegyal's feet."
 
 msgctxt "385a5aa1bb074b7f932ce3e3622b2efa"
 msgid ""
