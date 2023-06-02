@@ -103,6 +103,7 @@ msgid ""
 "སྐུ་␣འི་ སྐྱེ་བ་ གསུམ་པ་ རྟོགས་ལྡན་ སྤྲུལ་སྐུ་ རིན་ཆེན་ དབང་ཕྱུག་ རྔོད་ དུ་ "
 "སྐུ་ འཁྲུངས །"
 msgstr ""
+"The third incarnation, Togden Tulku Rinchen Wangchug, was born in Ngoe."
 
 msgctxt "fa8f7ec2256f46fa9f9c92c4157daa84"
 msgid ""
