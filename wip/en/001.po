@@ -87,6 +87,8 @@ msgctxt "5e2cd11af9874639b87b585d94792006"
 msgid ""
 "ཨེ་ཝཾ་ དགོན་པ །  མདོ་སྔགས་ དགོན་པ་ བཅས་ དགོན་ ཁག་ གསུམ་ གྱི་ དབུ་བླ་ མཛད །"
 msgstr ""
+"Ehvam Monastery, and Dongag Monastery - he served as the chief spiritual "
+"master of the three monasteries. "
 
 msgctxt "98d52007b4a24a32b9429c5b3803fc0e"
 msgid ""
