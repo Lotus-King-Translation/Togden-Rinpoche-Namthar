@@ -217,6 +217,8 @@ msgid ""
 "སྐུ་␣འི་ སྐྱེ་བ་ དྲུག་པ་ རྟོགས་ལྡན་ སྤྲུལ་སྐུ་ བསྟན་འཛིན་ ཆོས་གྲགས་ ནི་ "
 "དབུར་སྟོད་ སྦྲང་ ཕུར་ སྦྲང་ སྤྱན་ ཤར་པ་ ཞེས་པ་␣འི་ ཁྱིམ་ དུ་ སྐུ་ འཁྲུངས །"
 msgstr ""
+"The sixth incarnation, Togden Tulku Tenzin Choedrag, was born in the family "
+"named Urtoe Drangbur Drangchen Sharpa.  "
 
 msgctxt "3f579c0c12274b3296cc2dcc93315966"
 msgid "༸སྐྱབས་ མགོན་ ཆོས་ ཀྱི་ ཉི་མ་ ལ་ གཙུག་ཕུད་ ཕུལ་ ཞིང་"
