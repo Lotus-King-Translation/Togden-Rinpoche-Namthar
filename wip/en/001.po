@@ -222,7 +222,7 @@ msgstr ""
 
 msgctxt "3f579c0c12274b3296cc2dcc93315966"
 msgid "༸སྐྱབས་ མགོན་ ཆོས་ ཀྱི་ ཉི་མ་ ལ་ གཙུག་ཕུད་ ཕུལ་ ཞིང་"
-msgstr ""
+msgstr "He offered his crown hair to Kyabgon Choekyi Nyima. "
 
 msgctxt "87e72fc0fba444aaa2afa85a5c57a879"
 msgid ""
