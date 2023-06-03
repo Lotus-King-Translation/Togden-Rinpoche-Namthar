@@ -294,6 +294,8 @@ msgid ""
 "ལ་དྭགས་ མངའ་རིས་ སྒང་ སྔོན་ དགོན་ གྱི་ ཆོས་རྗེ་ མཛད་ ཅིང་ ལ་དྭགས་ ཆོས་རྒྱལ་ "
 "ཀུན་དགའ་ རྣམ་རྒྱལ་ དང་ མཆོད་ཡོན་ དུ་ འབྲེལ །"
 msgstr ""
+"He became Choeje of Gangngon Monastery and formed a lama-patron relationship"
+" with Ladakh Choeygal Kunga Namgyal. "
 
 msgctxt "0b81435a520942ce86a5bd827058d606"
 msgid ""
