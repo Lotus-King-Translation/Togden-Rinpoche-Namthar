@@ -1113,6 +1113,7 @@ msgstr "To hold the teachings of the Three Jewels,"
 msgctxt "9e53c10f3f8d41ed802fb1b779eae85d"
 msgid "། དཀའ་སྤྱད་ སྙིང་རུས་ བོད་ དུ་ ཆོས་ ཞུགས་ མཛད །"
 msgstr ""
+"With hardships and willpower, in Tibet [you] entered the gate of dharma."
 
 msgctxt "8e0246d022274b75bea2afc4ed74188f"
 msgid "། འབྲི་གུང་ ཉི་ ལྕང་ བཤད་ གྲྭར་ ཐོས་བསམ་ ཀྱིས །"
