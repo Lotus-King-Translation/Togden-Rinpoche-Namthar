@@ -110,6 +110,8 @@ msgid ""
 "༸སྐྱབས་ མགོན་ དཀོན་མཆོག་ རཏྣ་ དང་ རྗེ་ ཀུན་མཁྱེན་ ཆོས་ ཀྱི་ གྲགས་པ་␣འི་ "
 "སློབ་མ་␣ར་ གྱུར་ ཅིང་ ནགས་ ཤོད་ ཆོས་འཁོར་ བྱམས་པ་ གླིང་ གི་ བླ་མ་ མཛད །"
 msgstr ""
+"He was a disciple of Kyabgon Kunchog Ratna and Je Kunkhen Chokyi Drakpa "
+"later became the spiritual master at Nagsho Choekhor Jampaling."
 
 msgctxt "547e8800a3474dcda98c002bea3668d9"
 msgid ""
