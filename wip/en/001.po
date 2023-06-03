@@ -406,7 +406,7 @@ msgstr ""
 
 msgctxt "47975518ba3c4b8ebbf04a94aaa05d95"
 msgid "བཀའ་དབང་ བཀའ་ ཆོས་ ཟབ་མོ་ མང་པོ་ ཞུས །"
-msgstr ""
+msgstr "They received numerous empowerments and teachings. "
 
 msgctxt "3ea6cfb44636421c83831984da0af55b"
 msgid ""
