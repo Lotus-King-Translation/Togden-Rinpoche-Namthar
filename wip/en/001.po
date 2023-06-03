@@ -568,6 +568,8 @@ msgid ""
 "ཡུལ་མི་ རྣམས་ ཀྱིས་ འཇའ་ དང་ འོད་ ཀྱི་ གུར་ ཕུབ་པ་ མཐོང་ ནས་ གོང་མ་པ་␣འི་ "
 "བུ་ དེ་ སྐྱེ་བ་ མཐོན་པོ་ ཞིག་ ཡིན་ སྲིད །"
 msgstr ""
+"When the villagers saw the rainbow and illuminating light in the shape of a "
+"tent, they said, \"Apparently, Gongmapa's son is a high rebirth.\""
 
 msgctxt "621d5dedc6e446009640944bec745e09"
 msgid ""
