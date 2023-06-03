@@ -323,6 +323,7 @@ msgid ""
 "སྐུ་ཕྲེང་ བརྒྱད་པ་ སྐུ་ན་ ཆུང་ དུས་ སུ་ མཚན་ རྟོགས་ལྡན་ སྤྲུལ་སྐུ་ བློ་གྲོས་"
 " རྒྱལ་མཚན །"
 msgstr ""
+"The eighth incarnation's childhood name was Togden Tulku Lodoe Gyaltsen."
 
 msgctxt "1d93d75ecaf345c2bb58661673ec9632"
 msgid ""
