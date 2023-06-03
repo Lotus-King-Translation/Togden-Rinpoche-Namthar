@@ -544,6 +544,8 @@ msgid ""
 "ཡུམ་ འདས་པ་␣ས་ ར་མ་␣འི་ འོ་མ་ དེ་␣ས་ རེའུ་ དང་ བུ་ཆུང་ གཉིས་ མཉམ་ དུ་ འཚོ་ "
 "ཐུབ་པ་ བྱུང །"
 msgstr ""
+"Following his mother's death, the mother goat's milk could nourish both the "
+"baby goat and the young son together."
 
 msgctxt "a63115f39b35410883b33f2b54fc4320"
 msgid ""
