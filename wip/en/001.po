@@ -247,6 +247,8 @@ msgid ""
 "ལ་དྭགས་ རྒྱལ་པོ་ ཚེ་དབང་ རྣམ་རྒྱལ་ དང་ རྒྱལ་པོ་ ཚེ་བརྟན་ རྣམ་རྒྱལ་ རྣམ་ "
 "གཉིས་ ཀྱི་ དབུ་བླ་ མཛད །"
 msgstr ""
+"He was the chief spiritual master of King Tsewang Namgyal and King Tsetan "
+"Namgyal of Ladakh.  "
 
 msgctxt "13a3620cd81d46bbba6efafb52ff1e58"
 msgid "དེ་ནས་ བོད་ དུ་ ཕེབས་ ཏེ་ ཡང་ རི་ སྒར་ གྱི་ མཁན་པོ་ མཛད །"
