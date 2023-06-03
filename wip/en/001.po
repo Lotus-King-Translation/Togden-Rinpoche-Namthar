@@ -413,6 +413,8 @@ msgid ""
 "མངའ་རིས་ སྒང་ སྔོན་ གྱི་ ཆོས་རྗེ་ མཛད་ ནས་ སྟོད་ཕྱོགས་ ཀྱི་ བསྟན་པ་␣འི་ "
 "གསལ་བྱེད་ དུ་ གྱུར །"
 msgstr ""
+"By doing the Choje of Ngari Gangngon, he became a dharma illuminator in the "
+"upper region [of Ngari, or western Tibet]."
 
 msgctxt "4766aebcc8c2403e96692ac87ffdbee7"
 msgid ""
