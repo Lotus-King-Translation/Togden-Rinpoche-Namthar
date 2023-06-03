@@ -273,7 +273,7 @@ msgstr ""
 
 msgctxt "ebf59f58f20a40f49b18d7427402c7a7"
 msgid "སྐུ་ཚེ་ ཡང་ རིང་པོ་␣ར་ བཞུགས་ སོ །"
-msgstr ""
+msgstr "He lived a long life."
 
 msgctxt "d1067b140e544d45a4657872a461afa0"
 msgid ""
