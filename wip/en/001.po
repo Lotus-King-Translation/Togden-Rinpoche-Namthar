@@ -315,6 +315,8 @@ msgid ""
 "འདྲ་སྐུ་ གཡུང་དྲུང་ དགོན་ གྱི་ གཟིམ་ཆུང་ དབུས་ དང་ ཤང་ དགོན་ རྙིང་པ་␣འི་ "
 "ཚོགས་ཁང་ ནང་ དུའང་ བཞུགས །"
 msgstr ""
+"He also lived at the middle residence of Draku Yungdrung Monastery and the "
+"assembly hall of the old Shang Monastery. "
 
 msgctxt "1b6a143e54b84524bab92d6e18d5adcb"
 msgid ""
