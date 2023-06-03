@@ -450,6 +450,7 @@ msgstr "When he died, a rainbow and light pervaded the area, and "
 msgctxt "f7b3790f2300488da032865e2b4df594"
 msgid "དུང་ རྒྱ་གླིང་ ལ་སོགས་པ་␣འི་ སྒྲ་དབྱངས་ སྙན་པོ་ ཀུན་ གྱིས་ ཐོས །"
 msgstr ""
+"Everybody heard the melodious sounds of the conch and religious trumpet. "
 
 msgctxt "559c2497b22242a7bee470367b9460cf"
 msgid ""
