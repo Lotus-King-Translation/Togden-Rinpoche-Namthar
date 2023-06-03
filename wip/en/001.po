@@ -180,6 +180,8 @@ msgid ""
 "འབྲི་གུང་ སྦྲང་ ནང་ ཆོས་སྲིད་ གཞིས་ཀ་␣འི་ རི་རྩེ་␣ར་ སྒྲུབ་ཁང་ པདྨ་ ཡང་རྩེ་ "
 "ཕྱག་ བཏབས །"
 msgstr ""
+"He established the Pema Yangtse meditation center on the peak of Drikung "
+"Drangnang Choetse Shika. "
 
 msgctxt "263ce8d5d0e248069b61de7b1b1e0d5d"
 msgid ""
