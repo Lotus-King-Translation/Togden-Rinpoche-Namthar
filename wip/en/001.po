@@ -420,6 +420,8 @@ msgctxt "4766aebcc8c2403e96692ac87ffdbee7"
 msgid ""
 "མང་ཡུལ་ ཆོས་རྒྱལ་ བསོད་ནམས་ རྣམ་རྒྱལ་ སྐུ་མཆེད་ དང་ མཆོད་ཡོན་ དུ་ འབྲེལ །"
 msgstr ""
+"He formed a lama-patron relationship with the brothers of Mangyul Choegyal "
+"Sonam Namgyal."
 
 msgctxt "17a24fa8c7bf4bdd90b0e8afd641e3b4"
 msgid ""
