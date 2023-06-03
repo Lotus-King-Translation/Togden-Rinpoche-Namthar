@@ -136,6 +136,8 @@ msgid ""
 "སྐུ་␣འི་ སྐྱེ་བ་ བཞི་པ་ རྟོགས་ལྡན་ སྤྲུལ་སྐུ་ བསྟན་འཛིན་ རྣམ་རྒྱལ་ ཞེས་པ་ "
 "བྱང་ རྣམ་ རུར་ སྐུ་ འཁྲུངས་ ནས་ འབྲི་གུང་ གདན་ས་␣ར་ ཕེབས་ ཏེ་"
 msgstr ""
+"The fourth incarnation, Togden Tulku Tenzin Namgyal, was born in the north "
+"of Namru and went to Drikung monastic center. "
 
 msgctxt "ecd41fd081dd431ab17361bfa9c875ab"
 msgid ""
