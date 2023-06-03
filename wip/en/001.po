@@ -445,7 +445,7 @@ msgstr ""
 
 msgctxt "837d750cd46f4e63959caabd2e35e3e7"
 msgid "སྐུ་གཤེགས་ སྐབས་ འཇའ་ དང་ འོད་ ཀྱིས་ ཁྱབ་པ་ དང །"
-msgstr ""
+msgstr "When he died, a rainbow and light pervaded the area, and "
 
 msgctxt "f7b3790f2300488da032865e2b4df594"
 msgid "དུང་ རྒྱ་གླིང་ ལ་སོགས་པ་␣འི་ སྒྲ་དབྱངས་ སྙན་པོ་ ཀུན་ གྱིས་ ཐོས །"
