@@ -593,6 +593,8 @@ msgid ""
 "སྐུ་ འཁྲུངས་པ་ དང་ ནོར་ ལོངས་སྤྱོད་ ཀྱང་ སྔར་ ལ་␣ས་ ལྷག་པར་ འཕེལ་ ནས་ "
 "སྐྱིད་པ་␣ར་ བྱུང་ །"
 msgstr ""
+"After his birth, the family's wealth grew more than before, and they were "
+"delighted."
 
 msgctxt "dcf60c6d330b434ca1f7a4a4ca9d5cf6"
 msgid ""
