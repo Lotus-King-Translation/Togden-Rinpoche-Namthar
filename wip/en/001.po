@@ -347,6 +347,8 @@ msgid ""
 "༸སྐྱབས་ མགོན་ ཐུགས་རྗེ་ ཉི་མ་ ལ་␣ས་ རབ་ཏུ་ བྱུང་ སྟེ་ མཚན་ དཀོན་མཆོག་ "
 "བསྟན་འཛིན་ དམ་ཆོས་ འགྱུར་མེད་ ཅེས་ གསོལ །"
 msgstr ""
+"He was ordained as a monk by Kyabgon Thuje Nyima and given the name Kunchog "
+"Tenzin Damchoe Gyurmey. "
 
 msgctxt "6e5ef209a5a3495d8da2a3dc92c26bec"
 msgid ""
