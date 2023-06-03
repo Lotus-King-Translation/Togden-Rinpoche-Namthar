@@ -560,6 +560,8 @@ msgid ""
 "ནང་ དུ་ སྐྱེས་པ་␣འི་ མེ་ཏོག་ སྔོན་པོ་ དེ་ རིན་པོ་ཆེ་ མཆོག་ གི་ ཨ་ཕྱི་ "
 "སྐལ་བཟང་ སྒྲོལ་མ་␣ས་ མི་ ཀུན་ ལ་ མཇལ་ བཅུག་ དུས་ ངོ་མཚར་ དཔག་མེད་ སྐྱེས །"
 msgstr ""
+"It was wonderful when Rinpoche's grandmother Kalsang Dolma let everyone to "
+"see the blue flower that had bloomed in the house."
 
 msgctxt "a40fae3210e1452288becea02b0f91c3"
 msgid ""
