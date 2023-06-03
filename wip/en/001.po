@@ -517,7 +517,7 @@ msgstr "As a commoner caste is born, a blue flower blooms."
 
 msgctxt "a31a3cf04329406bb0105dcbfdd917c7"
 msgid "། ལྷུམས་ སུ་ བཞུགས་ ཚེ་ མེ་ཏོག་ ཁ་ ནི་ བུབ །"
-msgstr ""
+msgstr "As it enters the womb, the flower will face down."
 
 msgctxt "d5786146c5c64b0f82f17f25517650fd"
 msgid "། སྐུ་བལྟམས་ ཚེ་ ན་ མེ་ཏོག་ ཁ་ ནི་ ཕྱེ །"
