@@ -509,7 +509,7 @@ msgstr "A blue flower bloomed in the house during his birth."
 
 msgctxt "73f2c26700b5436bbb51c83ffd62227c"
 msgid "པདྨ་ གླིང་པ་␣འི་ བཀའ་ ཐང་ལ་␣ས་ གསུངས་པ་ བཞིན །"
-msgstr ""
+msgstr "As said in the Pema Lingpa's Kathang, "
 
 msgctxt "faeda27ec6f141668cdf53b18d79f2e5"
 msgid "དམངས་རིགས་ འཁྲུངས་ ན་ མེ་ཏོག་ སྔོན་པོ་ སྐྱེ །"
