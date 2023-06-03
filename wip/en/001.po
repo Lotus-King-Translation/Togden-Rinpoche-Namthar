@@ -1166,7 +1166,7 @@ msgstr ""
 
 msgctxt "26fd4e89103d4611a016052f5b83a2ff"
 msgid "ན་མོ་ གུ་རུ་ ཡེ །"
-msgstr ""
+msgstr "NAMO GURU YE"
 
 msgctxt "12f4c9d2f8004132abefd288fbcff5c1"
 msgid "ཁམས་ གསུམ་ འགྲོ་བ་␣འི་ བླ་མ་ ཆོས་ ཀྱི་ རྗེ །"
