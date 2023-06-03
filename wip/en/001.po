@@ -521,7 +521,7 @@ msgstr "As it enters the womb, the flower will face down."
 
 msgctxt "d5786146c5c64b0f82f17f25517650fd"
 msgid "། སྐུ་བལྟམས་ ཚེ་ ན་ མེ་ཏོག་ ཁ་ ནི་ ཕྱེ །"
-msgstr ""
+msgstr "The flower blooms as soon as it is born."
 
 msgctxt "c58b56594c7f49898ca09a022956df54"
 msgid "། ཕ་མ་ གང་རུང་ གཅིག་ ནི་ འཆི་བ་␣ར་ འགྱུར །"
