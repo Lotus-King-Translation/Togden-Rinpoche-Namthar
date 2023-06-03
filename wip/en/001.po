@@ -1108,7 +1108,7 @@ msgstr "Today, grant [us] the gift of truth as a fruit of [our] aspiration."
 
 msgctxt "dd2ede9ec04b446f9abb85253d6bf416"
 msgid "། དཀོན་མཆོག་ གསུམ་ གྱི་ བསྟན་པ་ འཛིན་པ་ ལ །"
-msgstr ""
+msgstr "To hold the teachings of the Three Jewels,"
 
 msgctxt "9e53c10f3f8d41ed802fb1b779eae85d"
 msgid "། དཀའ་སྤྱད་ སྙིང་རུས་ བོད་ དུ་ ཆོས་ ཞུགས་ མཛད །"
