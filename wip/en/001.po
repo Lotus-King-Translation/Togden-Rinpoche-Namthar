@@ -529,7 +529,7 @@ msgstr "Either of the parents will die."
 
 msgctxt "db0feed5ac78484b9a16251185324697"
 msgid "། ཞེས་ གསུངས་པ་ ལྟར །"
-msgstr "As it is said,"
+msgstr "Exactly as stated"
 
 msgctxt "75fdbad956044250a0969fa2247b83cc"
 msgid "འཁྲུངས་ མ་ ཐག་ ཡུམ་ དགོངས་པ་ རྫོགས །"
