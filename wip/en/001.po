@@ -169,7 +169,7 @@ msgstr ""
 
 msgctxt "1d975d2469554b9297da0ec3e7092286"
 msgid "ཐུབ་བསྟན་ ཡང་ རི་ སྒར་ གྱི་ མཁན་པོ་ མཛད །"
-msgstr ""
+msgstr "He also served as the abbot of Thupten Yangri. "
 
 msgctxt "f620e7c2216b4814a83a61c3301578f0"
 msgid "སྐུ་བསོད་ མངའ་ཐང་ ཤིན་ཏུ་ ཆེ་བ་ བྱུང །"
