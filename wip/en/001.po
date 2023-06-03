@@ -199,6 +199,8 @@ msgid ""
 "བློ་གྲོས་ ཞེས་ བྱ་བ་ དེ་ཡང་ འབྲི་གུང་ མང་ར་␣འི་ ནང་ བསོད་ནམས་ བག་ དྲོ་ "
 "ཞེས་པ་␣འི་ ཁྱིམ་ དུ་ སྐུ་ འཁྲུངས །"
 msgstr ""
+"His fifth incarnation, Togden Choekyi Lodoe, was born in Drikung Mangra "
+"under the family name Sonam Bagdro. "
 
 msgctxt "71da314542af4bc3ab95acf0195ebb6b"
 msgid ""
