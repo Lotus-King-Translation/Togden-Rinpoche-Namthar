@@ -537,7 +537,7 @@ msgstr "His mother died soon after he was born."
 
 msgctxt "3439f9a67e8e4d858e2bc49671cada09"
 msgid "དེ་དུས་ ར་ གཅིག་ ལ་ རེའུ་ གཅིག་ ཀྱང་ མཉམ་ དུ་ སྐྱེས །"
-msgstr ""
+msgstr "A mother goat gave birth to a kid at the same time."
 
 msgctxt "c7dbdf5ddb6642389c8c165ed73e35fc"
 msgid ""
