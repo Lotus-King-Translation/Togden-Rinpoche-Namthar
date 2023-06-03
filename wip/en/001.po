@@ -525,7 +525,7 @@ msgstr "The flower blooms as soon as it is born."
 
 msgctxt "c58b56594c7f49898ca09a022956df54"
 msgid "། ཕ་མ་ གང་རུང་ གཅིག་ ནི་ འཆི་བ་␣ར་ འགྱུར །"
-msgstr ""
+msgstr "Either of the parents will die."
 
 msgctxt "db0feed5ac78484b9a16251185324697"
 msgid "། ཞེས་ གསུངས་པ་ ལྟར །"
