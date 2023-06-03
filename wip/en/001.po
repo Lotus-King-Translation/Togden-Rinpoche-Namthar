@@ -457,6 +457,8 @@ msgid ""
 "སྐུ་ཕུང་ གཞུགས་ ལ་ ཕུལ་ དུས་ དུ་བ་ དཀར་པོ་ ཤར་ཕྱོགས་ སུ་ སྤྲིན་ མཐུག་པོ་ "
 "གུར་ ཕུབ་པ་ ལྟར་ འགྲོ་བ་␣འི་ རྟགས་ མཚན་ བསྟན །"
 msgstr ""
+"When his body was cremated, different signs appeared, such as white smoke "
+"flying eastward like an opening tent."
 
 msgctxt "a6610b63b06441c38c9c9929b65a1c8f"
 msgid ""
