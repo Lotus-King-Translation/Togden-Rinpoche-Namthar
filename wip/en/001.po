@@ -118,7 +118,7 @@ msgid ""
 "ནགས་ ཤོད་ དགོན་པ་ ཉམས་གསོ་ དང་ རྟེན་ དང་ བརྟེན་པ་␣ར་ བཅས་ བཞེངས་ ནས་ "
 "ཀུན་མཁྱེན་ ཆོས་ ཀྱི་ གྲགས་པ་ གདན་ཞུ་␣ས་ ནས་ བཀྲ་ཤིས་ རབ་གནས་ མཛད །"
 msgstr ""
-"He renovated and built Nagsho Monastery, which contained the basis and the "
+"He renovated Nagsho Monastery and built it by containing the basis and the "
 "dependent, and Kunkhen Choekyi Dragpa was invited to perform the "
 "consecration ceremony."
 
