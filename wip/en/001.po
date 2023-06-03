@@ -1104,7 +1104,7 @@ msgstr "The blessings of the successions of the golden garland"
 
 msgctxt "a3c6145168944a8a9450ff48e557d5c0"
 msgid "། དེང་ འདི་␣ར་ སྨོན་པ་␣འི་ འབྲས་བུ་␣ར་ བདེན་ བྱིན་ སྩོལ །"
-msgstr ""
+msgstr "Today, grant [us] the gift of truth as a fruit of [our] aspiration."
 
 msgctxt "dd2ede9ec04b446f9abb85253d6bf416"
 msgid "། དཀོན་མཆོག་ གསུམ་ གྱི་ བསྟན་པ་ འཛིན་པ་ ལ །"
