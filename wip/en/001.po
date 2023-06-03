@@ -533,7 +533,7 @@ msgstr "Exactly as stated"
 
 msgctxt "75fdbad956044250a0969fa2247b83cc"
 msgid "འཁྲུངས་ མ་ ཐག་ ཡུམ་ དགོངས་པ་ རྫོགས །"
-msgstr ""
+msgstr "His mother died soon after he was born."
 
 msgctxt "3439f9a67e8e4d858e2bc49671cada09"
 msgid "དེ་དུས་ ར་ གཅིག་ ལ་ རེའུ་ གཅིག་ ཀྱང་ མཉམ་ དུ་ སྐྱེས །"
