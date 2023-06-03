@@ -330,6 +330,8 @@ msgid ""
 "ལ་དྭགས་ རྒྱལ་པོ་ ཀུན་དགའ་ རྣམ་རྒྱལ་ གྱི་ སྲས་ སུ་ ཏོག་ དགུ་པོ་པ་ ཞེས་པ་␣འི་ "
 "ཁྱིམ་ དུ་ འཁྲུངས །"
 msgstr ""
+"He was born as a prince of Ladakh king Kunga Namgyal in the Tok Gupopa "
+"family. "
 
 msgctxt "9d2e3cd1098845acb1ce33da5fc45112"
 msgid ""
