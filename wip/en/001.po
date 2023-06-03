@@ -1092,7 +1092,7 @@ msgstr "Supplication for the swift return of [Ladakh Chöje Togden Rinpioche]"
 
 msgctxt "d40d9f74a5fe49f88e4ca885bdf15258"
 msgid "༄༅། ། རྡོ་རྗེ་ འཆང་ དབང་ ཏཻ་ ལོ་ ནཱ་ རོ་ དང་ །"
-msgstr ""
+msgstr "Vajradhara, Tilopa, Naropa, and"
 
 msgctxt "a79f48b7e14c4887807cb575a57edf5a"
 msgid "། མར་ མི་ དྭགས་པོ་ ཕག་གྲུ་ འཇིག་རྟེན་ མགོན །"
