@@ -283,7 +283,7 @@ msgstr "The seventh incarnation, Togden Tulku Ngawang GelekWangchuk, was"
 
 msgctxt "acc045aa7e2747d997294dfdfb1547d8"
 msgid "དབུར་སྟོད་ ཀྱི་ དོན་ གད་ ཀྱི་ ཕུར་ སྐུ་ འཁྲུངས །"
-msgstr ""
+msgstr "born in the upper region of Uru Toh. "
 
 msgctxt "4f324d2c1da64aa88b8af36f7589c792"
 msgid "༸རྗེ་ ཆོས་ཉིད་ ནོར་བུ་ ལ་␣ས་ རབ་ཏུ་ བྱུང་ ཞིང་ བསྙེན་པ་␣ར་ རྫོགས །"
