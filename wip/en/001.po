@@ -465,6 +465,8 @@ msgid ""
 "སྐུ་ཕྲེང་ དགུ་པ་ སྐུ་ བདེ་བ་␣ར་ གཤེགས་པ་ ཞིང་གཤེགས་ དཀོན་མཆོག་ ཐུབ་བསྟན་ "
 "བསྟན་པ་␣འི་ རྒྱལ་མཚན་ ནི །"
 msgstr ""
+"The ninth incarnation, the one who has gone to the pure Buddha fields, the "
+"late Konchog Thupten Tenpei Gyaltsen was "
 
 msgctxt "635a76ab7dd145cda59cc880c1d3820c"
 msgid ""
