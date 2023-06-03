@@ -1074,7 +1074,7 @@ msgstr ""
 
 msgctxt "22a18df4cdf64a38bea8a546bb760a28"
 msgid "མྱུར་ བྱོན་ གསོལ་འདེབས །"
-msgstr ""
+msgstr "Supplication for the swift return of [Ladakh Chöje Togden Rinpioche]"
 
 msgctxt "d40d9f74a5fe49f88e4ca885bdf15258"
 msgid "༄༅། ། རྡོ་རྗེ་ འཆང་ དབང་ ཏཻ་ ལོ་ ནཱ་ རོ་ དང་ །"
