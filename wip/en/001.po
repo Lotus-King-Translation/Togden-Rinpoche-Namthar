@@ -144,6 +144,7 @@ msgid ""
 "༸སྐྱབས་ མགོན་ འཕྲིན་ལས་ བཟང་པོ་ འཕགས་པ་ སྤྱན་རས་ གཟིགས་ དངོས་ ཀྱི་ ཞབས་ ལ་ "
 "གཏུགས་ ནས་"
 msgstr ""
+"By reaching the feet of Kyabgon Thinley Sangpo, the true Avalokiteshvara, "
 
 msgctxt "e4a311744bd2467f9c2500d882230941"
 msgid ""
