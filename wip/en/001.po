@@ -1100,7 +1100,7 @@ msgstr "Marpa, Milarepa, Gampopa, Phagmo Drupa, Jigten Sumgon"
 
 msgctxt "dd73657873ac48d884f82f2ab9a641b0"
 msgid "། གདན་རབས་ གསེར་ གྱི་ ཕྲེང་བ་␣འི་ བྱིན་རླབས་ ཀྱིས །"
-msgstr ""
+msgstr "The blessings of the successions of the golden garland"
 
 msgctxt "a3c6145168944a8a9450ff48e557d5c0"
 msgid "། དེང་ འདི་␣ར་ སྨོན་པ་␣འི་ འབྲས་བུ་␣ར་ བདེན་ བྱིན་ སྩོལ །"
