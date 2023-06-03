@@ -585,6 +585,8 @@ msgid ""
 "ཨ་ནེ་ ཚེ་རིང་ གཡང་ འཛོམས་ གཉིས་ ཀྱི་ ལག་ ཏུ་ ཕུལ་ ནས་ བུ་ ལ་ གཙང་སྦྲ་ བྱེད་ "
 "དགོས་ ཞེས་ སྨྲ་␣ས །"
 msgstr ""
+"His relatives gave him curd and milk in the hands of Grandmother Kalsang "
+"Dolma and Aunt Tsering Yangzom and advised them to keep the child clean."
 
 msgctxt "4a5dd08b044a4c2ebb1b351f7a6069e1"
 msgid ""
