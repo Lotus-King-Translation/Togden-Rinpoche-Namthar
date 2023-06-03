@@ -363,6 +363,8 @@ msgid ""
 "༸སྐྱབས་ མགོན་ ཆུང་ ཚང་ ཆོས་ ཀྱི་ བློ་གྲོས་ ལ་␣ས་ འབྲི་ ལུགས་ ཀྱི་ དབང་ལུང་ "
 "ཇི་སྙེད་པ་ ཞུས་ ཤིང་ དད་གུས་ དང་ ཞབས་ཏོག་ ཤིན་ཏུ་ ཆེ་བ་ ཞུས །"
 msgstr ""
+"He received complete empowerment and transmission of the Drikung tradition "
+"from Kyabgon Chungtsang Choekyi Lodro and served him with great devotion. "
 
 msgctxt "4d264f30ce40445e817f6bb3bb6d9da2"
 msgid ""
