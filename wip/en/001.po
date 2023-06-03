@@ -490,6 +490,8 @@ msgid ""
 "སྐུ་ འཁྲུངས་ དུས་བྱ་ རྒོད་ ཐང་དཀར་ གསུམ་ གྱིས་ ཁྱིམ་ ལ་ གཡས་སྐོར་ གསུམ་ "
 "བསྐོར་བ་␣ར་ མཛད །"
 msgstr ""
+"During his birth, three white vultures circled the house three times "
+"clockwise."
 
 msgctxt "a6eba36a0a4a415f80f6d809aa6137a4"
 msgid ""
