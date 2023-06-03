@@ -287,7 +287,7 @@ msgstr "born in the upper region of Uru Toh. "
 
 msgctxt "4f324d2c1da64aa88b8af36f7589c792"
 msgid "༸རྗེ་ ཆོས་ཉིད་ ནོར་བུ་ ལ་␣ས་ རབ་ཏུ་ བྱུང་ ཞིང་ བསྙེན་པ་␣ར་ རྫོགས །"
-msgstr ""
+msgstr "He became a monk and took full monastic vows from Je Choenyi Norbu. "
 
 msgctxt "4bee5c2640e2440aaa99231c93bfa4c3"
 msgid ""
