@@ -173,7 +173,7 @@ msgstr "He also served as the abbot of Thupten Yangri. "
 
 msgctxt "f620e7c2216b4814a83a61c3301578f0"
 msgid "སྐུ་བསོད་ མངའ་ཐང་ ཤིན་ཏུ་ ཆེ་བ་ བྱུང །"
-msgstr ""
+msgstr "He was highly regarded and influential."
 
 msgctxt "449992bcf97a49c88211f7a27e80764e"
 msgid ""
