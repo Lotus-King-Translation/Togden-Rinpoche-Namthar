@@ -252,7 +252,7 @@ msgstr ""
 
 msgctxt "13a3620cd81d46bbba6efafb52ff1e58"
 msgid "དེ་ནས་ བོད་ དུ་ ཕེབས་ ཏེ་ ཡང་ རི་ སྒར་ གྱི་ མཁན་པོ་ མཛད །"
-msgstr ""
+msgstr "Then, he visited Tibet and became the abbot of Yangri Gar."
 
 msgctxt "94c7c22f360b45f8935f6097fbea8381"
 msgid ""
