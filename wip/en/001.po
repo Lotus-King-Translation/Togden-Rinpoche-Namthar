@@ -552,6 +552,8 @@ msgid ""
 "སྐུ་མདུན་ གྱིས་ རང་ རྣམ་ གསུངས་ དུས་ ར་ དེ་ ནི་ ང་␣འི་ ཨ་མ་ དང་ ཁྱད་མེད་ "
 "ཡིན་ ཞེས་ གསུངས་པ་␣ར་ ཐོས །"
 msgstr ""
+"When His Holiness shares his life story, it is frequently heard that the "
+"goat is no different from his mother."
 
 msgctxt "182f2963908648ff8dbcfe54d4755e52"
 msgid ""
