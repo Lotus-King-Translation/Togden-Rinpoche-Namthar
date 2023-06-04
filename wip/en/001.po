@@ -1239,7 +1239,7 @@ msgstr ""
 
 msgctxt "8e0246d022274b75bea2afc4ed74188f"
 msgid "། འབྲི་གུང་ ཉི་ ལྕང་ བཤད་ གྲྭར་ ཐོས་བསམ་ ཀྱིས །"
-msgstr ""
+msgstr "By studying and contemplating at the Drikung Nyichang Monastic center"
 
 msgctxt "230120ff6388460989f5e1688c5c6f8e"
 msgid "། མཁས་པ་␣འི་ དབང་པོ་␣ར་ སོན་ དེ་␣ར་ གུས་པ་␣ས་ འདུད །"
