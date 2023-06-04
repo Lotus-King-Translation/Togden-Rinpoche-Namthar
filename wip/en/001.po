@@ -931,6 +931,7 @@ msgstr ""
 msgctxt "ae99d06904054f5a942a1033bb192f9c"
 msgid "གྱ་ རོང་ མཁན་པོ་ མགོན་པོ་␣འི་ དྲུང་ ནས་ ངལ་གསོ་ སྐོར་ གསུམ །"
 msgstr ""
+"[Rinpoche] studied the three cycles of relaxation from Gyalrong abbot Gompo."
 
 msgctxt "f59a83c4d71947848ce3d89d0483bc4c"
 msgid ""
