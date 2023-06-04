@@ -1316,7 +1316,7 @@ msgstr "Lama, lord of Dharma for three realms' beings,"
 
 msgctxt "8f2a1dee97f64cb4b9816ed627f4a97e"
 msgid "། རྟོགས་པ་ མཆོག་ལྡན་ དྲིན་ཅན་ མགོན་ ཁྱེད་ ཉིད །"
-msgstr ""
+msgstr "You, the kind guardian with supreme realization,"
 
 msgctxt "5bf0287130af43ecb3f63cd26e2c3719"
 msgid "། ཆོས་ ཀྱི་ སྐུ་ ལ་ གཤེགས་ བཞུད་ མི་ མངའ་ ཡང་ །"
