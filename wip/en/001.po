@@ -1292,7 +1292,7 @@ msgstr "To raise the dharma victory banner until the end of samsara"
 
 msgctxt "eca4366048924915bde2a79e77cec32e"
 msgid "། འཁྲུལ་ བྲལ་ ཡང་སྲིད་ མྱུར་ དུ་ བྱོན་ མཛད་ གསོལ ། །"
-msgstr ""
+msgstr "I pray for the swift return of the true reincarnation. "
 
 msgctxt "e767477600004c62bc6c18584b3409a4"
 msgid ""
