@@ -1324,7 +1324,7 @@ msgstr "Even though there is no death in dharmakaya,"
 
 msgctxt "e405ceb42a9b46acbfbf4d6573b6270c"
 msgid "། གཟུགས་སྐུ་ གཤེགས་པ་␣ར་ བདག་ སོགས་ གདུང་བ་␣ས་ མན་␣ར །"
-msgstr ""
+msgstr "Rupakaya's death inflicted pain on me and others."
 
 msgctxt "4f7f5d658eea416e96bf8f391e1677a2"
 msgid "། བསྐལ་ མང་ གོམ་པ་␣འི་ རླབས་ཆེན་ ཐུགས་བསྐྱེད་ དང་ །"
