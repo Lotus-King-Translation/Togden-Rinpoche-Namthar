@@ -1276,7 +1276,7 @@ msgstr "[You] display the nature of departing to different fields."
 
 msgctxt "e1fd7572a7fb40ec9b8376df60a838e6"
 msgid "། ཐུགས་བསྐྱེད་ དབང་ གིས་ ཡང་སྤྲུལ་ མྱུར་ བྱོན་ མཛོད །"
-msgstr ""
+msgstr "May your next emanation swiftly return with compassion."
 
 msgctxt "d748d4db6d8949efaf8336fd4bab43ef"
 msgid "། མཆོག་ གསུམ་ བསླུ་མེད་ ཨ་ཕྱི་ ཆོས་ ཀྱི་ སྒྲོན །"
