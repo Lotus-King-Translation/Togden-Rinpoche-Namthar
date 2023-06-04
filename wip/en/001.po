@@ -1320,7 +1320,7 @@ msgstr "You, the kind guardian with supreme realization,"
 
 msgctxt "5bf0287130af43ecb3f63cd26e2c3719"
 msgid "། ཆོས་ ཀྱི་ སྐུ་ ལ་ གཤེགས་ བཞུད་ མི་ མངའ་ ཡང་ །"
-msgstr ""
+msgstr "Even though there is no death in dharmakaya,"
 
 msgctxt "e405ceb42a9b46acbfbf4d6573b6270c"
 msgid "། གཟུགས་སྐུ་ གཤེགས་པ་␣ར་ བདག་ སོགས་ གདུང་བ་␣ས་ མན་␣ར །"
