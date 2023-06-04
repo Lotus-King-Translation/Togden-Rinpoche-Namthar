@@ -608,7 +608,7 @@ msgstr ""
 
 msgctxt "f0a93afb778949c784f2bdd1526eedc3"
 msgid "སྤྲུལ་སྐུ་␣ར་ ངོས་འཛིན་ མཛད་ ཚུལ །"
-msgstr "How [Rinpoche] was recognized as a Nirmanakaya"
+msgstr "How [Rinpoche] was recognized as a Tulku"
 
 msgctxt "e6999a9970094aaa8656ea484bf7213a"
 msgid ""
