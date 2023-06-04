@@ -1280,7 +1280,7 @@ msgstr "May your next emanation swiftly return with compassion."
 
 msgctxt "d748d4db6d8949efaf8336fd4bab43ef"
 msgid "། མཆོག་ གསུམ་ བསླུ་མེད་ ཨ་ཕྱི་ ཆོས་ ཀྱི་ སྒྲོན །"
-msgstr ""
+msgstr "The three incontrovertible excellences Achi Chokyi Dron"
 
 msgctxt "256cc1a124dc4879a9cd4097d64f4d58"
 msgid "། རྟེན་འབྲེལ་ བསླུ་བ་ མེད་པ་␣འི་ བདེན་པ་ དང །"
