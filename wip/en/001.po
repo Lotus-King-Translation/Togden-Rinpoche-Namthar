@@ -1312,7 +1312,7 @@ msgstr "NAMO GURU YE"
 
 msgctxt "12f4c9d2f8004132abefd288fbcff5c1"
 msgid "ཁམས་ གསུམ་ འགྲོ་བ་␣འི་ བླ་མ་ ཆོས་ ཀྱི་ རྗེ །"
-msgstr ""
+msgstr "Lama, lord of Dharma for three realms' beings,"
 
 msgctxt "8f2a1dee97f64cb4b9816ed627f4a97e"
 msgid "། རྟོགས་པ་ མཆོག་ལྡན་ དྲིན་ཅན་ མགོན་ ཁྱེད་ ཉིད །"
