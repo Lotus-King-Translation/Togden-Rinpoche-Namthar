@@ -1243,7 +1243,7 @@ msgstr "By studying and contemplating at the Drikung Nyichang Monastic center"
 
 msgctxt "230120ff6388460989f5e1688c5c6f8e"
 msgid "། མཁས་པ་␣འི་ དབང་པོ་␣ར་ སོན་ དེ་␣ར་ གུས་པ་␣ས་ འདུད །"
-msgstr ""
+msgstr "[You who] became a master of scholars, I bow to you."
 
 msgctxt "f4f91d4e43dc4e8c8e9eb007408a2e84"
 msgid "། ཐུབ་བསྟན་ སྤྱི་ དང་ ༸རྒྱལ་ བའ་ འབྲི་གུང་པ་␣འི །"
