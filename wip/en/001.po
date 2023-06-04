@@ -1288,7 +1288,7 @@ msgstr "The truth of incontrovertible interdependence and "
 
 msgctxt "f3a1e4d557334e7cb5264a2728d5e2a5"
 msgid "། བསྟན་པ་␣འི་ རྒྱལ་མཚན་ སྲིད་མཐ་␣ར་ བསྒྲེངས་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "To raise the dharma victory banner until the end of samsara"
 
 msgctxt "eca4366048924915bde2a79e77cec32e"
 msgid "། འཁྲུལ་ བྲལ་ ཡང་སྲིད་ མྱུར་ དུ་ བྱོན་ མཛད་ གསོལ ། །"
