@@ -1346,6 +1346,8 @@ msgctxt "fa7b7cb81d8649e1967a3bf780128895"
 msgid ""
 "ཏཱ་ར་ གསང་ ཆེན་ སྒྲུབ་ སྡེ་␣ར་ རྨོངས་རྒན་ རཏྣས་ གདུངས་ བས་ གསོལ་བ་ བཏབ་བོ །།"
 msgstr ""
+"At the Tara Great Secret retreat center, Mong master Ratna offers a painful "
+"supplication prayer."
 
 msgctxt "61ad0c0226fa4eb2bd78c11167246754"
 msgid ""
