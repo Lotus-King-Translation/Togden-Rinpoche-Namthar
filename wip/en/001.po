@@ -735,6 +735,8 @@ msgid ""
 "བོད་ དུ་ ཆེས་ མཐོ་␣འི་ སློབ་སྦྱོང་ ལ་ ཕེབས་པ་ དང་ ཞར་ དུ་ རྒྱ་གར་ གྱི་ "
 "གནས་ཆེན་ ཁག་ ལ་ གནས་ གཟིགས །"
 msgstr ""
+"A journey to Tibet for higher education, and visits of great sacred sites in"
+" India on his way."
 
 msgctxt "3d93d8a8048742b4b176e02db69316fc"
 msgid ""
