@@ -701,6 +701,8 @@ msgid ""
 "ཆོས་སྐུ་ ཚང་ བླ་བྲང་ ནས་ དགོངས་པ་ ཞུས་ མ་ ཐག་ ཚོགས་འདུ་ ལྷན་ ཚོགས་ ཀྱིས་ "
 "རིན་པོ་ཆེ་␣འི་ ཡོངས་འཛིན་ དུ་ གས་␣ར་ བསྐོས་ མཛད །"
 msgstr ""
+"The committee appointed Choje Choku Tsang Rinpoche's tutor, Sonam, as "
+"Rinpoche's tutor soon after he retired from Choje Choku Tsang's monastery. "
 
 msgctxt "84ac21b9d90d4e15b36f65b89f25b7fd"
 msgid ""
