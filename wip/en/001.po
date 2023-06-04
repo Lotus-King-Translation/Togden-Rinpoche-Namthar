@@ -824,6 +824,8 @@ msgid ""
 "ཕོ་བྲང་པོ་ ཏ་ལ་␣ར་ ༸གོང་ ས་ ཡིད་བཞིན་ ནོར་བུ་ ཐམས་ཅད་ མཁྱེན་ ཅིང་ གཟིགས་པ་ "
 "བཅུ་བཞི་པ་ ཆེན་པོ་␣འི་ ཞལ་མཇལ །"
 msgstr ""
+"Rinpoche met His Holiness the 14th Dalai Lama, Yeshe Norbu Thamche Khenpa, "
+"in the Potala palace."
 
 msgctxt "2c329e88267144e2a1f26394143fc79c"
 msgid ""
