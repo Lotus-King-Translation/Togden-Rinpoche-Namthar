@@ -1332,7 +1332,7 @@ msgstr "Eons spent in the grand bodhicitta practice,"
 
 msgctxt "a763eb3630cf4dd2b40f9c504369fdcd"
 msgid "། བདག་ཅག་ སློབ་འབངས་ གདུང་བ་␣ས་ མན་␣ར་ གཟིགས་ ནས །"
-msgstr ""
+msgstr "Seeing us disciples and others tormented by pain,"
 
 msgctxt "f3d48f8e0ffe4b1c8442affeee3592da"
 msgid "། མཆོག་སྤྲུལ་ ཉི་གཞོན་ གསར་པ་ མྱུར་ འཆར་ ནས །"
