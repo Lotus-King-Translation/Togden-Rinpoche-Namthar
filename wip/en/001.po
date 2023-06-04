@@ -627,6 +627,8 @@ msgid ""
 "གི་ བུ་ དེ་ ང་␣འི་ མདུན་ དུ་ ཁྲིད་ ཤོག་ ངས་ འཁྲུས་ ཤིག་ འབུལ་ རྒྱུ་ ཡིན་ "
 "གསུངས་པ་ དང་"
 msgstr ""
+"One morning, the teacher said he had a good dream and asked to bring the son"
+" of the Gongma family for sacred water purification."
 
 msgctxt "a3d51ccf83e44ecd9fd044e8e8804017"
 msgid ""
