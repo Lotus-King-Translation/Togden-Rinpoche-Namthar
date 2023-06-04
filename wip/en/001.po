@@ -754,6 +754,8 @@ msgid ""
 "དེ་དུས་ ཤེཁ་ མོཧཱ་ མད་ ཨབ་ དུ་ ལ་ ཤེར་ ཀཤྨིར་ དང་ རྒྱལ་སྲས་ ༸བ་ ཀུ་ ལ་ "
 "རིན་པོ་ཆེ་ ལ་དྭགས་ དོན་རྩ་␣འི་ བློན་པོ་␣ར་ བཞུགས་ ཡོད་པ་ ཡིན །"
 msgstr ""
+"At that time, Sheikh Mohammad Abdullah was Sher-e-Kashmir and Prince Bakula "
+"Rinpoche was an important minister. "
 
 msgctxt "7da1ed5b5141448aaee881cbf504aa48"
 msgid ""
