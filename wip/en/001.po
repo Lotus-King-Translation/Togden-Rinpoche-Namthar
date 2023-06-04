@@ -776,6 +776,8 @@ msgid ""
 "གང་ མྱུར་ སློབ་སྦྱོང་ མཛད་ ནས་ ལ་དྭགས་ སུ་ ཕེབས་ ཏེ་ རང་ཡུལ་ ལ་ ཆོས་ཕྱོགས་ "
 "དང་ སྤྱི་ཚོགས་ ལ་ ཞབས་འདེགས་ ཞུ་ དགོས་པ་␣འི་ བཀའ་སློབ་ གནང་ །"
 msgstr ""
+"Nehru advised Rinpoche to return to Ladakh soon after finishing his studies "
+"in Tibet and to serve in both spiritual and temporal ways."
 
 msgctxt "0c07ba74316a4579891f061a5bf36175"
 msgid ""
