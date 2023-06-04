@@ -1336,7 +1336,7 @@ msgstr "Seeing us disciples and others tormented by pain,"
 
 msgctxt "f3d48f8e0ffe4b1c8442affeee3592da"
 msgid "། མཆོག་སྤྲུལ་ ཉི་གཞོན་ གསར་པ་ མྱུར་ འཆར་ ནས །"
-msgstr ""
+msgstr "Great nirmanakaya, young sun, spontaneously arises."
 
 msgctxt "154c5cc973fb4b6da38f8fcb1f734a25"
 msgid "། མཛད་འཕྲིན་ ཕྱོགས་མཐ་␣ར་ ཁྱབ་པ་ ཉིད་ གྱུར་ཅིག །།"
