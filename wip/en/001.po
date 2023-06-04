@@ -1328,7 +1328,7 @@ msgstr "Rupakaya's death inflicted pain on me and others."
 
 msgctxt "4f7f5d658eea416e96bf8f391e1677a2"
 msgid "། བསྐལ་ མང་ གོམ་པ་␣འི་ རླབས་ཆེན་ ཐུགས་བསྐྱེད་ དང་ །"
-msgstr ""
+msgstr "Eons spent in the grand bodhicitta practice,"
 
 msgctxt "a763eb3630cf4dd2b40f9c504369fdcd"
 msgid "། བདག་ཅག་ སློབ་འབངས་ གདུང་བ་␣ས་ མན་␣ར་ གཟིགས་ ནས །"
