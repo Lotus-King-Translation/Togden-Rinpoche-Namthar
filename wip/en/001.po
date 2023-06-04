@@ -665,6 +665,8 @@ msgid ""
 "ཁོང་ གིས་ ཀྱང་ སྤྲུལ་སྐུ་ ཁྱད་པར་ཅན་ ཞིག་ གི་ སྐྱེ་བ་ ཡིན་ འདུག་པ་␣ས་ "
 "གཙང་སྦྲ་ བྱེད་ དགོས་ ཞེས་ བཀའ་ བསྩལ །"
 msgstr ""
+"He also stated that the boy is an incarnation of a special tulku and advised"
+" that he be kept clean. "
 
 msgctxt "9aa3aead87974efdbb582ea7c1bf5a82"
 msgid ""
