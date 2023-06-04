@@ -898,6 +898,8 @@ msgid ""
 "མཁན་པོ་ ནོར་བུ་ རྒྱལ་མཚན་ གྱི་ དྲུང་ ནས་ འབྲི་གུང་ བསྟན་ སྙིང་ དགོངས་ གཅིག  "
 "སུམ་ རྟགས་ སོགས་ བཀའ་ ཁྲིད་ ཞུས །"
 msgstr ""
+"[He] studied the heart teaching of Drikung-The Single Intention and Tibetan "
+"grammar of Thirty Verses and Signs from abbot Norbu Gyaltsen."
 
 msgctxt "142d936905d044179c90d5b89d136157"
 msgid ""
