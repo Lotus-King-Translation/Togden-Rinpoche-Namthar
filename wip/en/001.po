@@ -1284,7 +1284,7 @@ msgstr "The three incontrovertible excellences Achi Chokyi Dron"
 
 msgctxt "256cc1a124dc4879a9cd4097d64f4d58"
 msgid "། རྟེན་འབྲེལ་ བསླུ་བ་ མེད་པ་␣འི་ བདེན་པ་ དང །"
-msgstr ""
+msgstr "The truth of incontrovertible interdependence and "
 
 msgctxt "f3a1e4d557334e7cb5264a2728d5e2a5"
 msgid "། བསྟན་པ་␣འི་ རྒྱལ་མཚན་ སྲིད་མཐ་␣ར་ བསྒྲེངས་པ་␣འི་ ཕྱིར །"
