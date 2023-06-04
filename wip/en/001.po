@@ -29,7 +29,7 @@ msgid ""
 msgstr ""
 "Togden Phunstok Dhargey, the first incarnation, was born in Kongpo, Tibet, "
 "the land of dharma, and entered the dharma door of Drikung as a disciple of "
-"Gyalwang Rinpichen Phuntsok."
+"Gyalwang Rinpchen Phuntsok."
 
 msgctxt "0cb52c44537b4863b8844a325582bff6"
 msgid ""
