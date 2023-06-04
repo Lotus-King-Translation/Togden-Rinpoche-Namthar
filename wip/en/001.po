@@ -1268,7 +1268,7 @@ msgstr "Though the Vajra realm is free from destruction,"
 
 msgctxt "914e6a71de24412eb2d97fb0cf277918"
 msgid "། རེ་ཞིག་ འདུལ་ བྱ་␣ར་ མི་རྟག་ སྟོན་པ་␣འི་ ཕྱིར །"
-msgstr ""
+msgstr "To demonstrate impermanence to some disciples,"
 
 msgctxt "b43c98164a074ece9c6d3460a81c7d95"
 msgid "། ཞིང་ གཞན་ གཤེགས་པ་␣འི་ ངང་ཚུལ་ སྟོན་ ན་␣འང་ །"
