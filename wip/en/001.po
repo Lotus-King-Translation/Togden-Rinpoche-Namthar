@@ -854,6 +854,8 @@ msgid ""
 "གོ་གནས་ དང་ བཞུགས་ཁྲི་␣ར་ འབོལ་གདན་ གསུམ་ བརྩེགས །  ཁྲི་ རྒྱབ་ཡོལ །  "
 "ཁྲི་ལྕོག་ བཅས་ སྔོན་དུས་ ཀྱི་ ལུགས་ དང་ མཐུན་པ་␣ར་ མཛད །"
 msgstr ""
+"The position and throne were prepared in the traditional way, with a stack "
+"of three thick stuffed carpets, a throne back curtain, and a throne table."
 
 msgctxt "d5d2957cfcf746c4a6fd66ec32560250"
 msgid ""
