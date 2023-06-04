@@ -1264,7 +1264,7 @@ msgstr "I supplicate at the feet of Ladakh Chöje."
 
 msgctxt "56c266db68654e089c4c3fcaff8c23fc"
 msgid "། རྡོ་རྗེ་␣འི་ ཁམས་ ལ་ གཞོམ་ ཞིག་ དང་ བྲལ་ ཡང་ །"
-msgstr ""
+msgstr "Though the Vajra realm is free from destruction,"
 
 msgctxt "914e6a71de24412eb2d97fb0cf277918"
 msgid "། རེ་ཞིག་ འདུལ་ བྱ་␣ར་ མི་རྟག་ སྟོན་པ་␣འི་ ཕྱིར །"
