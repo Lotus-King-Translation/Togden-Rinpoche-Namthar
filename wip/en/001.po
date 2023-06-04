@@ -761,7 +761,7 @@ msgctxt "7da1ed5b5141448aaee881cbf504aa48"
 msgid ""
 "རིན་པོ་ཆེ་ མཆོག་ གི་ གསུང་ བསྒྱུར་བ་␣འི་ ཚུལ་ དུ་ ལ་དྭགས་ ནས་ སྐུ་ཞབས་ "
 "བཀྲ་ཤིས་ རབ་ རྒྱས་ བཞུགས་ ཡོད་པ་ ཡིན །"
-msgstr ""
+msgstr "Mr. Tashi Rabgays was Rinpoche's interpreter from Ladakh. "
 
 msgctxt "e275a681c5cb4feba19e6016f476d2a5"
 msgid ""
