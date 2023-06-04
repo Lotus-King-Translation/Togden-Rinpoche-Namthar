@@ -947,6 +947,8 @@ msgid ""
 "༸གོང་ ས་ ཡིད་བཞིན་ ནོར་བུ་ ནས་ ལྷ་ལྡན་ ནོར་ གླིང་ དུ་ དཔལ་ དུས་ ཀྱི་ "
 "འཁོར་ལོ་␣འི་ དབང་ལུང་ ཡོངས་རྫོགས །"
 msgstr ""
+"His Holiness the 14th Dalai Lama bestowed Kalachakra empowerment and "
+"transmission at Lhaden Norbulingka."
 
 msgctxt "19fd6be807c84c5ca59e92b63ab0ea25"
 msgid ""
