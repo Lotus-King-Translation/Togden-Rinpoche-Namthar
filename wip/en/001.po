@@ -1247,7 +1247,7 @@ msgstr "[You who] became a master of scholars, I bow to you."
 
 msgctxt "f4f91d4e43dc4e8c8e9eb007408a2e84"
 msgid "། ཐུབ་བསྟན་ སྤྱི་ དང་ ༸རྒྱལ་ བའ་ འབྲི་གུང་པ་␣འི །"
-msgstr ""
+msgstr "Buddha's teaching in general and Gyalwa Drikungpas' [in particular],"
 
 msgctxt "28239cbedece47b79831a676969269c9"
 msgid "། བཤད་སྒྲུབ་ ལ་␣ས་ གསུམ་ ཆོས་སྲིད་ བཟུང་ འབྲེལ་ གྱིས །"
