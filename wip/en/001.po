@@ -1010,6 +1010,8 @@ msgid ""
 "ལྷན་རྒྱས་ དགའ་སྤྲོ་␣འི་ ངང་ ༸སྐྱབས་ རྗེ་ བདུད་ འཇོམས་ རིན་པོ་ཆེ་ དང་ གཡུ་ "
 "སྐྲ་ རིན་པོ་ཆེ་ བཅས་ མཇལ །"
 msgstr ""
+"There, he met Kyabje Dujom Rinpoche, Yutai Rinpoche, Nyerchen Tsering, "
+"Machen Konchog Tenzin, and all the other teachers and disciples."
 
 msgctxt "77dcdbf4afdd4b0a9cd18f8ef6476064"
 msgid ""
