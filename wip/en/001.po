@@ -1148,7 +1148,7 @@ msgstr ""
 
 msgctxt "fe0df69361d6430f9b6255afd52de91a"
 msgid "དག་སྣང་ བྱུང་ཚུལ་ དང་ གནས་ སྒོ་ ཕྱེས་ ཚུལ །"
-msgstr ""
+msgstr "The occurrence of pure visions and the opening of sacred sites."
 
 msgctxt "cb930699ec3345f6bfe409882302b46a"
 msgid ""
