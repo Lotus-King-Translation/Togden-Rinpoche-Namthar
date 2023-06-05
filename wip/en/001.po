@@ -1034,6 +1034,8 @@ msgid ""
 "དེ་ནས་ ཇམྨུ་ རུ་ ༸བ་ ཀུ་ ལ་ རིན་པོ་ཆེ་ གཙོ་␣ས་ ལ་དྭགས་པ་ སྐྱ་སེར་ མང་པོ་␣ས་ "
 "ཕེབས་བསུ་ ཞུས །"
 msgstr ""
+"Headed by Kyabje Gyalse Bakula Rinpoche, many Ladakhi people came to greet "
+"and welcome [Rinpoche] when he arrived in Jammu. "
 
 msgctxt "639e0a88eeb44f41bcf57a5762bca1b5"
 msgid ""
