@@ -1249,6 +1249,8 @@ msgctxt "bc6295f634c0412dacccc6d3e1deac2c"
 msgid ""
 "ས་ ཕུད་ ཨོ་རྒྱན་ རྫོང་ གི་ ཕོ་བྲང་ གི་ བྲག་ ངོས་ སུ་ བྷྲུཾ་ རང་བྱོན་ ཡོད །"
 msgstr ""
+"There is a naturally arising syllable བྷྲུཾ་ [Bharum] on the face of the "
+"cliff near the palace of Saboo Orgyen Dzong."
 
 msgctxt "6df7eb47078c44cf9ca84f7cb070cb0d"
 msgid ""
