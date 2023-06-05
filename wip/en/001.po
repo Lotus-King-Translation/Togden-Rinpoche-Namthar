@@ -1042,6 +1042,8 @@ msgid ""
 "དེ་ནས་ གནས་ཆེན་ མཚོ་ པདྨ་␣ར་ ༸སྐྱབས་ རྗེ་ བདུད་ འཇོམས་ རིན་པོ་ཆེ་ མཇལ་ ནས་ "
 "ཚེ་དབང་ དང་ བཀའ་ ཆོས་ ཞུས །"
 msgstr ""
+"Later, at the sacred site Tso Pema, [Rinpoce] met Kyabje Dujom Rinpoche and "
+"received long-life empowerment and teachings."
 
 msgctxt "1175fb2ee9684518a049ef8214b606d1"
 msgid ""
