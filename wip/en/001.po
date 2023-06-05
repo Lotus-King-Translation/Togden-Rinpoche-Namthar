@@ -1233,6 +1233,8 @@ msgid ""
 "ཕྱག་ རྗེས་ དང་ ཞབས་རྗེས་ ནི་ དགོན་པ་ ཁག་ གི་ མཆོད་ཆས་ དང་ མཆོད་རྫས་ "
 "མང་པོ་␣ར་ འཁྲུངས་ ཡོད་པ་ གྲངས་ ཀྱིས་ མི་ ལང་ ངོ་ །"
 msgstr ""
+"On religious articles and clothing, there are numerous handprints and "
+"footprints."
 
 msgctxt "62e7e0e41f2243249394fda8fcd7c2f8"
 msgid ""
