@@ -1366,6 +1366,8 @@ msgid ""
 "སྐུ་ མི་ འཚོ་བ་␣འི་ རྟགས་ མཚན་ རྣམས་ མཁྱེན་ ཏེ་ སྨན་ཁང་ ནས་ རང་ཡུལ་ ལ་ ལོག་ "
 "རྒྱུ་␣འི་ འདུན་པ་ འཁྲུངས །"
 msgstr ""
+"When [Rinpoche] realized that his body could no longer sustain him, he "
+"considered returning to his hometown."
 
 msgctxt "322ede979f3f47e4b8c55a3681a9738f"
 msgid "དེ་ནས་ རང་གནས་ སུ་ བདེ་བ་␣ར་ འཁོད་ ནས་ ཐུགས་དམ་ ལ་ བཞུགས །"
