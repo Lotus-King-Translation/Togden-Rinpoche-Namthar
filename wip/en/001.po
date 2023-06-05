@@ -1196,6 +1196,8 @@ msgid ""
 "དེ་ནས་ ལ་ ལོག་ རྡོར་ ཁུལ་ ཡུལ་ གྱི་ ནུབ་བྱང་ དུ་ གནས་ཆེན་ དར་ སེང་དཀར་ མོ་ "
 "ཞེས་པ་ ལྷ་ཆེན་ བྲག་ ལྷ་དབང་ ཕྱུག་ གཉིས་ ནས་ གནས་ སྒོ་ ཕྱེས་པ་␣ར་ མཛད །"
 msgstr ""
+"The two Lhachen Draglha Wangchug opened a sacred site known as the Dharseng "
+"karmo pilgrimage on the northwestern part of Lalok Drubuk."
 
 msgctxt "63dfb991683c47b1bd212f4228340aa5"
 msgid "རྒྱས་པ་ གནས་ཡིག་ ནང་གསལ་ བས་ དེ་␣ར་ གཟིགས །"
