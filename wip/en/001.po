@@ -1142,7 +1142,7 @@ msgid ""
 "རྒྱལ་བ་ འབྲི་གུང་པ་␣འི་ དགོན་ ཁག་ གསུམ་ གཙོ་␣ས་ དད་ ལྡན་ ཡོངས་ ལ་ ཕ་མ་ དང་ "
 "ཉི་ཟླ་ ལྟ་བུ་␣ར་ བཀའ་དྲིན་ ཤིན་ཏུ་ ཆེ་␣འོ ། །"
 msgstr ""
-"Lama! Your kindness is as great as mother and father or the sun and moon for"
+"Lama! Your kindness is as great as mother and father or the sun and moon for"
 " all the people of Ladakh, especially the three main monasteries of Gyalwa "
 "Drikungpa and all the devotees."
 
