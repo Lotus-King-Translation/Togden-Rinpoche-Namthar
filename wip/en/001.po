@@ -1111,7 +1111,7 @@ msgstr ""
 
 msgctxt "7d6b002d76fd4d8aa527bdc7eff9b81d"
 msgid "ཆོས་རྗེ་␣འི་ ཚུལ་ དུ་ ཞབས་འདེགས་ ཞུས་པ །"
-msgstr ""
+msgstr "Serving as a Choje"
 
 msgctxt "b15d12bbe04e4194b4932886f99d5620"
 msgid ""
