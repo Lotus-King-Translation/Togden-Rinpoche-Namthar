@@ -1076,6 +1076,7 @@ msgctxt "ed7ff302ccdd414897788c89c8e4eac8"
 msgid ""
 "བཀའ་དབང་ དང་ བཀའ་ལུང་ གི་ བདུད་རྩི་␣ས་ འགྲོ་ རྣམས་ འཚིམས་པ་␣ར་ མཛད་ ཚུལ །"
 msgstr ""
+"How the beings are contented by the nectar of empowerment and transmission."
 
 msgctxt "f9da9f23f84a45058eb445de795f710b"
 msgid ""
