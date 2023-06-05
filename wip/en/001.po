@@ -1050,6 +1050,7 @@ msgid ""
 "སླར་ཡང་ ཇམྨུ་ བརྒྱུད་ ཀཤྨིར་ དང་ དེ་ནས་ གནམ་གྲུ་ བརྒྱུད་ ལ་དྭགས་ སུ་ ཞབས་ "
 "སོ་␣ར་ འཁོད །"
 msgstr ""
+"[Rinpoche] traveled to Kashmir through Jammu and then by plane to Ladakh. "
 
 msgctxt "84955fd4fd054ba485dd4f0c190fb817"
 msgid ""
