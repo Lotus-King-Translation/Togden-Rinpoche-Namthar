@@ -1188,6 +1188,8 @@ msgid ""
 "ནི་ གཏེར་ སྒྲོམ་ དགོན་ མཇལ་ དུ་ ཕེབས་པ་ རྣམས་ ཀྱིས་ དངོས་ སུ་ མཇལ་ མྱོང་ ཡོད"
 " །"
 msgstr ""
+"Pilgrims visiting Terdom Monastery saw a knee-deep footprint with both feet "
+"on the rock. "
 
 msgctxt "58a957627fe34ca3912437fa6adcf943"
 msgid ""
