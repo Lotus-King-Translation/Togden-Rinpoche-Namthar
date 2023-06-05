@@ -1277,6 +1277,7 @@ msgstr ""
 msgctxt "80da82c3ce99463cb5c711b14bd36ed0"
 msgid "དེ་ལྟར་ ཆུ་ དཀོན་པ་␣འི་ གནས་ སུ་ ཕེབས་ ན་ ཆུ་ དཀོན་ ཞི་བ་ དང་ །"
 msgstr ""
+"Similarly, [he] alleviates water scarcity by going where water is scarce."
 
 msgctxt "78ed64191beb40bea9700d9055530260"
 msgid ""
