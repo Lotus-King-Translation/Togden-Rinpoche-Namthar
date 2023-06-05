@@ -1216,6 +1216,7 @@ msgstr ""
 msgctxt "f7fedbe33b164ccf8138a7884c2fbcf8"
 msgid "གཞན་ ཡང་ ལ་དྭགས་ ཀྱི་ ཡུལ་ལུང་ མང་པོ་␣ར་ གནས་ སྒོ་ཚད་ མེད་ ཕྱེས་ ཡོད །"
 msgstr ""
+"Besides that, many other sacred sites are being opened throughout Ladakh."
 
 msgctxt "8675cf6bdecd4b5d8db1912af69c97fc"
 msgid ""
