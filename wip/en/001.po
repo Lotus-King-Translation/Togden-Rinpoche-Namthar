@@ -1324,7 +1324,7 @@ msgstr ""
 
 msgctxt "25985c1b53f546ca9f1f9dff11441331"
 msgid "མཛད་པ་ མཐའ་མ་ ཞི་བ་␣ར་ གཤེགས་ ཚུལ །"
-msgstr ""
+msgstr "The final enlightening deed was entering Parinirvana."
 
 msgctxt "5d2c23ee368d492bad0b565f020f34b3"
 msgid ""
