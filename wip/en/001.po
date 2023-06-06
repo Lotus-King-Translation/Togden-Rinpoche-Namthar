@@ -1634,6 +1634,8 @@ msgid ""
 "ལོ་རྒྱུས་ ཕྲན་བུ་ ཞེས་པ་ གླེ་␣འི་ ཤེས་རིག་ སློབ་ སྡེ་␣ས་པ་␣ར་ བསྐྲུན་ བྱས་པ་"
 " དང །"
 msgstr ""
+"A little story of my life experiences written by teacher Kunchog Sonam and "
+"published by Leh Educational Publication. "
 
 msgctxt "084dde29918e40b39180b3bdf63aa368"
 msgid ""
