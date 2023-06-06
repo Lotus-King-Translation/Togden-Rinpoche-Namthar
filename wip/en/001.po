@@ -1687,7 +1687,7 @@ msgstr ""
 
 msgctxt "ee764fa6164c4dc5bf5833b9ea331ccc"
 msgid "༢་␣༽  སྤྲུལ་སྐུ་␣ར་ ངོས་འཛིན་ མཛད་ ཚུལ །  ༥"
-msgstr ""
+msgstr "How [Rinpoche] was recognized as the emanation"
 
 msgctxt "9415d410a392482299d6116f9cc60486"
 msgid ""
