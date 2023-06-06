@@ -1736,4 +1736,4 @@ msgstr ""
 
 msgctxt "e13f0e1aefdb45d5bffa029075c886a9"
 msgid "༡༡་␣༽  མྱུར་ བྱོན་ གསོལ་འདེབས་ ཁམས་ གསུམ་ འགྲོ་བ་ མ །  ༡༤"
-msgstr ""
+msgstr "11. The Three Realms Supplication for the swift return"
