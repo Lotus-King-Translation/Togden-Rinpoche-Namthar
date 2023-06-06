@@ -869,7 +869,9 @@ msgstr ""
 
 msgctxt "81521098ee8743899f9b6f9ce0faccdc"
 msgid "བོད་ དུ་ བླ་མ་ བསྟེན་ ནས་ མདོ་སྔགས་ ཀྱི་ གསུང་ཆོས་ ཞུས་ ཚུལ །"
-msgstr "Receiving sutra and tantra teachings by relying on teachers in Tibet."
+msgstr ""
+"How [Rinpoche] received sutra and tantra teachings by relying on teachers in"
+" Tibet."
 
 msgctxt "4ac5356399d14d32aa330b50f5b87657"
 msgid ""
