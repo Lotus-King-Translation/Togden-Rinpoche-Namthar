@@ -1718,7 +1718,7 @@ msgstr "6. Serving as a Choje"
 
 msgctxt "3df96fd41e4041b9af36baf7cf44db33"
 msgid "༧་␣༽  དག་སྣང་ བྱུང་ཚུལ་ དང་ གནས་ སྒོ་ ཕྱེས་ ཚུལ །  ༡༠"
-msgstr ""
+msgstr "7. The occurrence of pure visions and the opening of sacred sites."
 
 msgctxt "f695c00393eb4a5080632876ff9e1446"
 msgid "༨་␣༽  སྲིད་ ཀྱི་ ཐོག་ ནས་ ཞབས་འདེགས་ ཞུས་ ཚུལ །  ༡༡"
