@@ -1581,7 +1581,7 @@ msgstr ""
 
 msgctxt "75fdd7e8143542ac9fa79c1cc1d0973c"
 msgid "པར་སྐྲུན་ བྱེད་པོ །"
-msgstr ""
+msgstr "Publisher"
 
 msgctxt "6aab869c3309462e96e945650e809996"
 msgid "ཡང་སྲིད་ སྲི་ཞུ་ ལྷན་ ཚོགས །"
