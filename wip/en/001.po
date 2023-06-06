@@ -1714,7 +1714,7 @@ msgstr ""
 
 msgctxt "b4bbd78bb0fa4a1d8be75cc710825a54"
 msgid "༦་␣༽  ཆོས་རྗེ་␣འི་ ཚུལ་ དུ་ ཞབས་འདེགས་ ཞུས་ ཚུལ །  ༩"
-msgstr ""
+msgstr "6. Serving as a Choje"
 
 msgctxt "3df96fd41e4041b9af36baf7cf44db33"
 msgid "༧་␣༽  དག་སྣང་ བྱུང་ཚུལ་ དང་ གནས་ སྒོ་ ཕྱེས་ ཚུལ །  ༡༠"
