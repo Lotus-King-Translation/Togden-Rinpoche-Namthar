@@ -1722,7 +1722,7 @@ msgstr "7. The occurrence of pure visions and the opening of sacred sites."
 
 msgctxt "f695c00393eb4a5080632876ff9e1446"
 msgid "༨་␣༽  སྲིད་ ཀྱི་ ཐོག་ ནས་ ཞབས་འདེགས་ ཞུས་ ཚུལ །  ༡༡"
-msgstr ""
+msgstr "8. As a civil servant, how [Rinpoche] serves the community."
 
 msgctxt "a6a05fbd57ea44b5a6d15457ed94f076"
 msgid "༩་␣༽  མཛད་པ་ མཐའ་མ་ ཞི་བ་␣ར་ གཤེགས་པ །  ༡༡"
