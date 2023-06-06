@@ -1591,7 +1591,7 @@ msgctxt "5f4d4e91a14c43cdb592f72e6c49ac75"
 msgid ""
 "ཕྱོགས་ བསྒྲིགས་ བྱེད་པོ །  རིག་ མཚོ་ དཀོན་མཆོག་ རྒྱ་མཚོ་ དང་ ཡེ་ཤེས་ "
 "བསྟན་འཛིན་ རྐན་ བཞི །"
-msgstr ""
+msgstr "Compiled by: Rigtso Konchog Gyatso and Yeshe Tenzin Kanji"
 
 msgctxt "587ff929bc3543478b2c6c8f97f5a61a"
 msgid "སྤྱི་ལོ་ ༢༠༢༣"
