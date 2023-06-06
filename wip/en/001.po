@@ -1726,7 +1726,7 @@ msgstr "8. As a civil servant, how [Rinpoche] serves the community."
 
 msgctxt "a6a05fbd57ea44b5a6d15457ed94f076"
 msgid "༩་␣༽  མཛད་པ་ མཐའ་མ་ ཞི་བ་␣ར་ གཤེགས་པ །  ༡༡"
-msgstr ""
+msgstr "9. The final enlightening deed was entering Parinirvana."
 
 msgctxt "bfe943ca0469491193f15255d1eebc9e"
 msgid "༡༠་␣༽  མྱུར་ བྱོན་ གསོལ་འདེབས་ རྡོ་རྗེ་ འཆང་ དབང་མ །  ༡༣"
