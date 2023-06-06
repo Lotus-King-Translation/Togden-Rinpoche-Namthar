@@ -1595,7 +1595,7 @@ msgstr "Compiled by: Rigtso Konchog Gyatso and Yeshe Tenzin Kanji"
 
 msgctxt "587ff929bc3543478b2c6c8f97f5a61a"
 msgid "སྤྱི་ལོ་ ༢༠༢༣"
-msgstr ""
+msgstr "In the year 2023"
 
 msgctxt "6f228a0e00e2404b8baf4c862f44ebe7"
 msgid "པར་སྐྲུན་ གསལ་ བཤད །"
