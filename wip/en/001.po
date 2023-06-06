@@ -1675,7 +1675,7 @@ msgstr ""
 "his close relatives and senior monks. We hope and aspire to bring them all "
 "to devoted followers via various means such as websites or books. We are "
 "optimistic that the full biography will include all of Rinpoche's "
-"enlightened deeds without leaving anything out."
+"enlightened deeds without leaving anything out. May it be virtuous!"
 
 msgctxt "2019a7e3a4ae46ba84323b97225e6b13"
 msgid "དཀར་ཆག"
