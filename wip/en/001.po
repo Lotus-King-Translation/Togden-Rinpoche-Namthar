@@ -41,7 +41,7 @@ msgstr ""
 "He practiced accomplishment for a long period of time at Tsari after "
 "listening to profound teachings from Gyalwang Ratna like pouring into a "
 "vase, and generated vast qualities of realizations. Thus, he was popularly "
-"known as Kongpo Togden, and Gyamen flowers grew wherever his hair was "
+"known as Kongpo Togden, and Gyamen flowers grow wherever his hair is "
 "planted."
 
 msgctxt "eb98a9575ffa4ac1a0f3463f4b696bcc"
