@@ -1710,6 +1710,7 @@ msgid ""
 "༥་␣༽  བཀའ་དབང་ དང་ བཀའ་ལུང་ གི་ བདུད་རྩི་␣ས་ འགྲོ་ རྣམས་ འཚིམས་པ་␣ར་ མཛད་ "
 "ཚུལ །  ༩"
 msgstr ""
+"How the beings are contented by the nectar of empowerment and transmission."
 
 msgctxt "b4bbd78bb0fa4a1d8be75cc710825a54"
 msgid "༦་␣༽  ཆོས་རྗེ་␣འི་ ཚུལ་ དུ་ ཞབས་འདེགས་ ཞུས་ ཚུལ །  ༩"
