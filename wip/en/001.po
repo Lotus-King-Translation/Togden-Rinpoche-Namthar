@@ -1731,6 +1731,7 @@ msgstr "9. The final enlightening deed was entering Parinirvana."
 msgctxt "bfe943ca0469491193f15255d1eebc9e"
 msgid "༡༠་␣༽  མྱུར་ བྱོན་ གསོལ་འདེབས་ རྡོ་རྗེ་ འཆང་ དབང་མ །  ༡༣"
 msgstr ""
+"10. Supplication for the swift return of [Ladakh Chöje Togden Rinpioche]"
 
 msgctxt "e13f0e1aefdb45d5bffa029075c886a9"
 msgid "༡༡་␣༽  མྱུར་ བྱོན་ གསོལ་འདེབས་ ཁམས་ གསུམ་ འགྲོ་བ་ མ །  ༡༤"
