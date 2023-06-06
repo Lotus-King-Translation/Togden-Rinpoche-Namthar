@@ -1599,7 +1599,7 @@ msgstr "In the year 2023"
 
 msgctxt "6f228a0e00e2404b8baf4c862f44ebe7"
 msgid "པར་སྐྲུན་ གསལ་ བཤད །"
-msgstr ""
+msgstr "Publisher's Note"
 
 msgctxt "f26b2c6f6e434d529e6b4df4feabd650"
 msgid ""
