@@ -1656,6 +1656,8 @@ msgid ""
 "གཞན་ ཡང་ གནས་ཡིག་ སོགས་ དང་ བདག་ གིས་ མྱོང་ཚོར་ མི་ ཉུང་བ་ ཞིག་ ཕྱོགས་ "
 "བསྒྲིགས་ བྱས་པ་ ཡིན །"
 msgstr ""
+"It also includes guides to sacred sites as well as some extent of self-"
+"experiences."
 
 msgctxt "ec89ff4bcc90488b83534c471006fdfd"
 msgid ""
