@@ -1675,7 +1675,7 @@ msgstr ""
 
 msgctxt "2019a7e3a4ae46ba84323b97225e6b13"
 msgid "དཀར་ཆག"
-msgstr ""
+msgstr "CONTENTS"
 
 msgctxt "47766238b5224829b7c387d54fcd33a4"
 msgid ""
