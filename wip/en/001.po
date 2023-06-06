@@ -1585,7 +1585,7 @@ msgstr "Publisher"
 
 msgctxt "6aab869c3309462e96e945650e809996"
 msgid "ཡང་སྲིད་ སྲི་ཞུ་ ལྷན་ ཚོགས །"
-msgstr ""
+msgstr "The Committee of Reincarnation"
 
 msgctxt "5f4d4e91a14c43cdb592f72e6c49ac75"
 msgid ""
