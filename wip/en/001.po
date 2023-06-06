@@ -1,10 +1,11 @@
 # 
 # Translators:
 # Tenzin Norgyal, 2023
+# Mikko Kotila, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Tenzin Norgyal, 2023\n"
+"Last-Translator: Mikko Kotila, 2023\n"
 "Language-Team: English (https://app.transifex.com/lotus-king-trust/teams/162865/en/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,8 +18,8 @@ msgid ""
 "རིན་པོ་ཆེ་ ཉིད་ སྐུ་ འཁྲུངས་པ་ དང་ རྟོགས་ལྡན་ རིན་པོ་ཆེ་ སྐུ་ གོང་མ་␣འི་་ "
 "ཡང་སྲིད་ ངོས་འཛིན་ དང་ ཁྲི་ སྟོན་ མཛད་ ཚུལ །"
 msgstr ""
-"The birth of Rinpoche and the recognition of the reincarnations of the "
-"previous Togden Rinpoche, as well as how enthronements were performed."
+"The birth and recognition of the reincarnations of the previous Togden "
+"Rinpoches, as well as how enthronements were performed."
 
 msgctxt "c935c08d13da4619978042aba4ea9991"
 msgid ""
