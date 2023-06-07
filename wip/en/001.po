@@ -357,7 +357,7 @@ msgid ""
 "མིག་འབྲས་ བཞིན་ བསྲུངས་པ་ དང་ །"
 msgstr ""
 "He also received full ordination and maintained Vinaya discipline in "
-"accordance with the Pratimoksha principle."
+"accordance with the Pratimoksha vows."
 
 msgctxt "cbb04fe892da454db1b2bfd80f0e0099"
 msgid ""
