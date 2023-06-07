@@ -50,7 +50,7 @@ msgid ""
 "ཕྱག་ མཁར་ ས་ ལ་ བཙུགས་ ནས་ སྡོང་པོ་ སྐྱེ་བ་ སོགས་ གྲུབ་རྟགས་ མངའ་བ་ དང་ །"
 msgstr ""
 "He showed many signs of accomplishment, such as a tree growing [on the "
-"place] of placing his handstick."
+"place] of placing his walking stick."
 
 msgctxt "11eeaa09ebd14a32a69721faa8d3843d"
 msgid ""
