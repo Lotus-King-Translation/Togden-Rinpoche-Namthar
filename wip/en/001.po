@@ -1480,7 +1480,7 @@ msgstr "Buddha's teaching in general and Gyalwa Drikungpas' [in particular],"
 msgctxt "28239cbedece47b79831a676969269c9"
 msgid "། བཤད་སྒྲུབ་ ལ་␣ས་ གསུམ་ ཆོས་སྲིད་ བཟུང་ འབྲེལ་ གྱིས །"
 msgstr ""
-"The study, practice, and activity with a union of spirituality and politics "
+"The study, practice, and activity with a union of spirituality and politics,"
 
 msgctxt "97600fb9831248d29279c9e46fb19437"
 msgid "། ཐབས་མཁས་ བསྟན་པ་ སྐྱོང་ ལ་ ཆེས་ དཔའ་བ །"
