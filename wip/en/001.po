@@ -944,7 +944,7 @@ msgid ""
 msgstr ""
 "[Rinpoche] received three times the empowerment of the auspicious vase of "
 "Vaishravana from Rangdol Kham Nyidzong Tripa, as well as transmission and "
-"teaching on the collected works of Patrul and so forth."
+"teaching on the collected works of Patrul [Rinpoche] and so forth."
 
 msgctxt "7ab37b52f0194184b0a4aa7b05448873"
 msgid ""
