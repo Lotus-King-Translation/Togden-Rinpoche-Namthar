@@ -619,7 +619,7 @@ msgid ""
 "ཆོས་རྗེ་␣ར་ བསྐོ་ བཞག་ མཛད་ ནས་ ལ་ ལོག་ ཡུལ་ཚོ་ རྣམས་ ལ་ བྱིན་ བརླབས་ སུ་ "
 "ཕེབས་ སྐབས་ རྡོ་ ཁུལ་ དུ་ བཞུགས་ ནས་"
 msgstr ""
-"After the demise of the 8th Togden Rinpoche, Choku Rinpoche Drubgyu Tenpai "
+"After the death of the 8th Togden Rinpoche, Choku Rinpoche Drubgyu Tenpai "
 "Nyima was appointed as the Choje until the birth of the next incarnation. "
 "During his visit to bless the villages of Lalok, he stayed at Durbuk."
 
