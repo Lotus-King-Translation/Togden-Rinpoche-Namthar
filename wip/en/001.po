@@ -266,7 +266,7 @@ msgid ""
 msgstr ""
 "He was popularly known for his nobility and high meditative realization. Je "
 "Pema Gyaltsen considered him very close and when the two Kyabgons pass into "
-"Nirvana, he served as the Vajra master during the eight Sadhana teachings."
+"Nirvana, he served as the Vajra master during the Eight Sadhana Teachings."
 
 msgctxt "73cc6d8860fe432589455f4f22b2e091"
 msgid ""
