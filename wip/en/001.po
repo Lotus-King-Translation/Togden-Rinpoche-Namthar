@@ -839,7 +839,7 @@ msgstr ""
 "Rinpoche visited Sera, Drepung, and other monasteries in Tibet. Following "
 "that, he was invited to Drikung Yangrigar Thupten Dezhi Rabgyeling, where he"
 " was greeted with a grand procession by Drikung staff and Ladakh monks and "
-"led to his private room."
+"was led to his private room."
 
 msgctxt "9702145addde4e10bc624fc28e4e9769"
 msgid ""
