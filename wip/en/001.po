@@ -1379,7 +1379,7 @@ msgstr ""
 
 msgctxt "322ede979f3f47e4b8c55a3681a9738f"
 msgid "དེ་ནས་ རང་གནས་ སུ་ བདེ་བ་␣ར་ འཁོད་ ནས་ ཐུགས་དམ་ ལ་ བཞུགས །"
-msgstr "After comfortably returning home, [Rinpoche] remained in Thukdam."
+msgstr "After returning home, [Rinpoche] remained in Thukdam."
 
 msgctxt "5f76dfda0fb545d88cc5dec44091640d"
 msgid ""
