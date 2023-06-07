@@ -1308,7 +1308,7 @@ msgstr ""
 
 msgctxt "9acc03bbc59646b49fe2328dcd51be6a"
 msgid "སྲིད་ ཀྱི་ ཐོག་ ནས་ ཞབས་འདེགས་ ཞུས་ ཚུལ །"
-msgstr "As a civil servant, how [Rinpoche] serves the community"
+msgstr "As a civil servant, how [Rinpoche] served the community"
 
 msgctxt "6b19fef96c9e40b79e42bd1d5f02675b"
 msgid ""
