@@ -1206,7 +1206,8 @@ msgstr ""
 
 msgctxt "63dfb991683c47b1bd212f4228340aa5"
 msgid "རྒྱས་པ་ གནས་ཡིག་ ནང་གསལ་ བས་ དེ་␣ར་ གཟིགས །"
-msgstr "Look in the pilgrimage guide for further details."
+msgstr ""
+"Look in the pilgrimage guide [authored by Rinpoche] for further details."
 
 msgctxt "44f0d8d7d5804a5ba1b363ac975dc7ce"
 msgid ""
