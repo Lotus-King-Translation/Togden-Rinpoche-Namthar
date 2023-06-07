@@ -749,7 +749,7 @@ msgid ""
 msgstr ""
 "Rinpoche flew from Leh to Jammu and Kashmir on the 12th day of the 11th "
 "month of the water-dragon year 1951, where Sadr-e-Riyasat invited him to "
-"dinner at the king's palace and took photographs."
+"dinner at the king's palace and where photographs were taken."
 
 msgctxt "4b9a0cb2da9f42bbba68ffc946394e93"
 msgid ""
