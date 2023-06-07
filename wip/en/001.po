@@ -402,7 +402,7 @@ msgid ""
 "ལ་དྭགས་ དགོན་ ཁག་ གི་ འཐུས་མི་ དང་ དད་ ལྡན་ རྣམས་ ཀྱིས་ ༸སྐྱབས་ མགོན་ "
 "རིན་པོ་ཆེ་␣འི་ ཞལ་མཇལ་ བསོད་ནམས་ ཅན་ དུ་ གྱུར །"
 msgstr ""
-"Representatives from Ladakh monasteries and devotees were blessed and become"
+"Representatives from Ladakh monasteries and devotees were blessed and became"
 " meritorious by the opportunity to meet Kyabgon Rinpoche in person. "
 
 msgctxt "47975518ba3c4b8ebbf04a94aaa05d95"
