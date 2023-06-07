@@ -1484,7 +1484,7 @@ msgstr ""
 
 msgctxt "97600fb9831248d29279c9e46fb19437"
 msgid "། ཐབས་མཁས་ བསྟན་པ་ སྐྱོང་ ལ་ ཆེས་ དཔའ་བ །"
-msgstr "Such a great noble skillfully nurtures the teachings"
+msgstr "Such a great noble skillfully nurtures the teachings."
 
 msgctxt "eeb72ecbac654efbaf62b91cefba41da"
 msgid "། ལ་དྭགས་ ཆོས་རྗེ་␣འི་ ཞབས་ ལ་ གསོལ་བ་ འདེབས །"
