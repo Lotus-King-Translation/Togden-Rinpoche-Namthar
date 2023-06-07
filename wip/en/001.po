@@ -374,7 +374,7 @@ msgid ""
 "གཏོགས་ ཕེབས་ མི་ ཆོག་ ཟེར་ ནས་ དགོངས་པ་ མ་ གནང་ བས་ ཆོས་རྗེ་ ཉིད་ བློ་ "
 "ཤིན་ཏུ་ ཕམ །"
 msgstr ""
-"To invite Kyabgon Chetsang Shiwa Lodro to visit Ladakh, Choje frequently "
+"To invite Kyabgon Chetsang Shiwe Lodro to visit Ladakh, Choje frequently "
 "requested Tibet's Depa Shung for permission but was deeply saddened when "
 "Kyabgon was only allowed to visit Mount Kailash."
 
