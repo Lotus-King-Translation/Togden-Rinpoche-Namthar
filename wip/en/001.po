@@ -515,7 +515,7 @@ msgstr "As said in the Pema Lingpa's Kathang, "
 
 msgctxt "faeda27ec6f141668cdf53b18d79f2e5"
 msgid "དམངས་རིགས་ འཁྲུངས་ ན་ མེ་ཏོག་ སྔོན་པོ་ སྐྱེ །"
-msgstr "As a commoner caste is born, a blue flower blooms."
+msgstr "As [one of] a commoner caste is born, a blue flower blooms."
 
 msgctxt "a31a3cf04329406bb0105dcbfdd917c7"
 msgid "། ལྷུམས་ སུ་ བཞུགས་ ཚེ་ མེ་ཏོག་ ཁ་ ནི་ བུབ །"
