@@ -992,7 +992,7 @@ msgid ""
 "རྒྱ་དམར་ གྱིས་ བོད་ བཙན་དབང་ དུ་ བཟུང་བ་␣ས་ བཞུགས་ ཐུབ་ མེད ། །"
 msgstr ""
 "In short, after successfully completing nine years of study in Tibet, the "
-"land of Dharma, Rinpoche wished to receive more empowerment and teachings "
+"land of Dharma, Rinpoche wished to receive more empowerments and teachings "
 "but was unable to do so due to the communist Chinese oppressive invasion of "
 "Tibet."
 
