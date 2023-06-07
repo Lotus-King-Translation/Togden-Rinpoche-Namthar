@@ -1350,7 +1350,7 @@ msgid ""
 "འཐིམས་པ་␣འི་ ཚུལ་ བསྟན་པ་␣ར་ མཛད །"
 msgstr ""
 "On May 24, 2023, he showed his mind dissolving into the ultimate sphere of "
-"reality for some. "
+"reality. "
 
 msgctxt "fcd03d88c1224858b4e1610bd6c9362e"
 msgid ""
