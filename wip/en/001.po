@@ -729,7 +729,7 @@ msgid ""
 msgstr ""
 "Rinpoche then learned reading and writing, as well as ritual prayers and "
 "practices, including the Drikung rituals, from his tutors between the age of"
-" three and thirteen in the monastery. This is Rinpoche's first academic "
+" three and thirteen in the monastery. This was Rinpoche's first academic "
 "endeavor after being recognized as reincarnation and enthronement."
 
 msgctxt "9a74f0e49f874901891c212c8ab6bb8c"
