@@ -818,7 +818,7 @@ msgid ""
 "བོད་ ཀྱི་ རྒྱལ་ས་ ལྷ་ས་␣ར་ ཚེས་  ༨ ་ ཉིན་ ཇོ་བོ་ ཡིད་བཞིན་ ནོར་བུ་ ཤཱཀྱ་ "
 "མུ་ནི་ མཇལ་ ནས་ མར་མེ་ སྟོང་མཆོད་ སོགས་ ཕུལ་བ་␣ར་ མཛད །"
 msgstr ""
-"On the 8th, [Rinpoche] visited Jowo Yeshe Norbu Shakyamuni in Lhasa, Tibet "
+"On the 8th, [Rinpoche] visited Jowo Yeshe Norbu Shakyamuni in Lhasa, Tibet, "
 "and made a thousand butter lamp offering."
 
 msgctxt "d02a5ee132594501a87be74736332d93"
