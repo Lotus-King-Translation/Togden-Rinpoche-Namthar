@@ -120,7 +120,7 @@ msgid ""
 "ཀུན་མཁྱེན་ ཆོས་ ཀྱི་ གྲགས་པ་ གདན་ཞུ་␣ས་ ནས་ བཀྲ་ཤིས་ རབ་གནས་ མཛད །"
 msgstr ""
 "He renovated Nagsho Monastery and built it by containing the basis and the "
-"dependent, and Kunkhen Choekyi Dragpa was invited to perform the "
+"dependent, and Kunkhyen Choekyi Dragpa was invited to perform the "
 "consecration ceremony."
 
 msgctxt "55e2e92c2cdd4a5e907646d3034a04e4"
