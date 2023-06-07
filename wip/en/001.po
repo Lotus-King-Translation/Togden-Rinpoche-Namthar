@@ -1112,7 +1112,7 @@ msgstr ""
 "transmitted Buddha's Kangyur twice at Yungdrung Monastery and Chushul "
 "Monastery, the empowerment and transmission of the great treasury of "
 "precious [termas] at Leh Chowkhang Gompa, and empowerment and transmission "
-"of Mani and Benza Guru mantras in the most of the regions in Ladakh."
+"of Mani and Vajra Guru mantras in the most of the regions in Ladakh."
 
 msgctxt "7d6b002d76fd4d8aa527bdc7eff9b81d"
 msgid "ཆོས་རྗེ་␣འི་ ཚུལ་ དུ་ ཞབས་འདེགས་ ཞུས་པ །"
