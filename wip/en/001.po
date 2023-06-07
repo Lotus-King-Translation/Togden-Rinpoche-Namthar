@@ -241,7 +241,7 @@ msgid ""
 "ཆོས་རྗེ་␣ར་ བསྐོ་གཞག་་ མཛད །"
 msgstr ""
 "He was designated as the Choje of Tsangtau Shagram in Drikung, Gangngon "
-"Tashi Choedzong of Ngari monasteries, Yungdrung Tharpaling, Shang Ehvam "
+"Tashi Choedzong of Ngari monasteries, Yungdrung Tharpaling, Shang Evam "
 "monastery, and so forth. "
 
 msgctxt "96c455fd97a54f02875815e0ea3d49d1"
