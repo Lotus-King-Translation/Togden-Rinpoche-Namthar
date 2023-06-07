@@ -274,7 +274,7 @@ msgid ""
 "མཛད་པ་ སོགས་ དེ་དུས་ ཀྱི་ བུ་སློབ་ ཀུན་ གྱི་ གཙོ་བོ་␣ར་ གྱུར །"
 msgstr ""
 "During the construction of the golden reliquary stupa in Drikung Thil, he "
-"served as the Vajra master and the most important son-like disciple at the "
+"served as the Vajra master and the most important son-like disciple of the "
 "time."
 
 msgctxt "ebf59f58f20a40f49b18d7427402c7a7"
