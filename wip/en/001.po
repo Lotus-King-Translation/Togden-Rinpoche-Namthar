@@ -485,7 +485,7 @@ msgstr ""
 "family named Gongmapa among the twenty Namgo families in Durbuk, one of the "
 "five major clusters of hamlets in Lalok, to the father Konchog Tsultrim and "
 "mother Tsering Dolma, with marvelous signs and indications such as bright "
-"light in the house and filled the sky with a five-colored rainbow."
+"light in the house and a five-colored rainbow across the sky."
 
 msgctxt "203853e8c94e42bf8353fbcff841641d"
 msgid ""
