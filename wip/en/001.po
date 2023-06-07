@@ -1693,7 +1693,7 @@ msgid ""
 "༡་␣༽  རིན་པོ་ཆེ་ ཉིད་ སྐུ་ འཁྲུངས་པ་ དང་ རྟོགས་ལྡན་ རིན་པོ་ཆེ་ སྐུ་ "
 "གོང་མ་␣འི་་ ཡང་སྲིད་ ངོས་འཛིན་ དང་ ཁྲི་ སྟོན་ མཛད་ ཚུལ །  ༡"
 msgstr ""
-"The birth of Rinpoche and the recognition of the reincarnations of the "
+"1. The birth of Rinpoche and the recognition of the reincarnations of the "
 "previous Togden Rinpoche, as well as how their enthronements were performed."
 
 msgctxt "ee764fa6164c4dc5bf5833b9ea331ccc"
