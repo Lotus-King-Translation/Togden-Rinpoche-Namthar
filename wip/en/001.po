@@ -167,7 +167,7 @@ msgid ""
 "གཞན་ ཡང་ བླ་མ་ མཁས་པ་ དག་ གི་ ཞབས་ ལ་ གཏུགས་ ནས་ རིག་གནས་ དང་ །  སྙན་ངག  "
 "རྒྱ་ གཞུང་ སོགས་ གསན་ ནས་ མཁས་པ་␣འི་ ཡང་རྩེ་␣ར་ ཕེབས །"
 msgstr ""
-"Furthermore, by bowing at the feet of many scholar masters, he studied "
+"Furthermore, by bowing at the feet of many scholar masters, he the studied "
 "fields of knowledge, poetry, and Indian texts, and became a great scholar."
 
 msgctxt "1d975d2469554b9297da0ec3e7092286"
